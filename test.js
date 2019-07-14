@@ -1,3 +1,1 @@
-onload(() => {
-  console.log('The scritps are here');
-});
+console.log('I love if this works');
